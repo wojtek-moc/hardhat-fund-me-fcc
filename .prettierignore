@@ -1,0 +1,7 @@
+node_modules
+package.json
+artifacts
+img
+cache
+coverage*
+gasReporterOutput.json

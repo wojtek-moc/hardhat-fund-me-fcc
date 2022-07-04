@@ -1,0 +1,16 @@
+node_modules
+typechain
+.env
+coverage
+coverage.json
+
+#Hardhat files
+cache
+artifacts
+deployments
+.DS_Store
+gas-report.txt
+
+# Wojtek
+_tst*
+_tmp
