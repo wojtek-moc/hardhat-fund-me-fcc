@@ -9,7 +9,7 @@ cache
 artifacts
 deployments
 .DS_Store
-gas-report.txt
+gas-report*.txt
 
 # Wojtek
 _tst*
